@@ -6,7 +6,7 @@ Este repositório abriga uma API para coletar dados de processos judiciais dos T
 
 - [Instalação](#instalação)
 - [Uso](#uso)
-- [Tecnologias](#Tecnolgias)
+- [Tecnologias](#tecnologias)
 
 ## Instalação
 
@@ -27,6 +27,14 @@ Para utilizar o cliente basta ir para a pasta client e executar node app.js
 ```bash
 node app.js
 ```
+
+##Tecnologias
+Node.js
+Javascript
+Express
+Puppeter
+Axios
+
 
 
 
