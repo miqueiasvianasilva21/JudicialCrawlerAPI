@@ -6,6 +6,7 @@ Este repositório abriga uma API para coletar dados de processos judiciais dos T
 
 - [Instalação](#instalação)
 - [Uso](#uso)
+- [Tecnologias](#Tecnolgias)
 
 ## Instalação
 
@@ -13,9 +14,20 @@ Para instalar este projeto, basta executar o comando `npm install`. Certifique-s
 
 ```bash
 npm install
+```
 
 ## Uso
-Para utilizar basta
+Para utilizar o servidor basta ir para a pasta server e executar node index.mjs
+
+```bash
+node index.mjs
+```
+Para utilizar o cliente basta ir para a pasta client e executar node app.js
+
+```bash
+node app.js
+```
+
 
 
 
