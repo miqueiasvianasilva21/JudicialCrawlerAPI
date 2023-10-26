@@ -6,5 +6,3 @@ Este repositório abriga uma API para coletar dados de processos judiciais dos T
 
 - [Instalação](#instalação)
 - [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
