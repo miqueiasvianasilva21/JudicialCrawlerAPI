@@ -29,8 +29,7 @@ node app.js
 ```
 
 ## Tecnologias
-- Node.js  
-- Javascript  
+- Node.js   
 - Express  
 - Puppeteer  
 - Axios
