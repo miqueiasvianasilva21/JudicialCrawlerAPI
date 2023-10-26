@@ -28,12 +28,13 @@ Para utilizar o cliente basta ir para a pasta client e executar node app.js
 node app.js
 ```
 
-##Tecnologias
--Node.js
--Javascript
--Express
--Puppeter
--Axios
+## Tecnologias
+- Node.js  
+- Javascript  
+- Express  
+- Puppeteer  
+- Axios
+
 
 
 
