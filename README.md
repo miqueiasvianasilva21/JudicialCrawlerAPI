@@ -29,11 +29,11 @@ node app.js
 ```
 
 ##Tecnologias
-Node.js
-Javascript
-Express
-Puppeter
-Axios
+-Node.js
+-Javascript
+-Express
+-Puppeter
+-Axios
 
 
 
